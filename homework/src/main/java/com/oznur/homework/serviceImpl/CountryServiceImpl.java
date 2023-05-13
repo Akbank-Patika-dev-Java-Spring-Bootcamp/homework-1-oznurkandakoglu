@@ -6,19 +6,21 @@ import com.oznur.homework.entity.Country;
 import com.oznur.homework.mapper.CountryMapper;
 import com.oznur.homework.repository.CountryRepository;
 import com.oznur.homework.service.CountryService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 
 import java.util.List;
 
 @Service
-@RequiredArgsConstructor
 public class CountryServiceImpl implements CountryService {
 
-    private final CountryRepository countryRepository;
-    private final CountryMapper countryMapper;
+    private CountryRepository countryRepository;
+    private CountryMapper countryMapper;
 
+    public CountryServiceImpl(CountryRepository countryRepository, CountryMapper countryMapper) {
+        this.countryRepository = countryRepository;
+        this.countryMapper = countryMapper;
+    }
 
     @Override
     public Country saveCountry(CountryDtoRequest countryDtoRequest) {

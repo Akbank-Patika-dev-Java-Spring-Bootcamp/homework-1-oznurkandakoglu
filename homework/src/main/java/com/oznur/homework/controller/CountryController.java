@@ -4,7 +4,6 @@ import com.oznur.homework.dto.request.CountryDtoRequest;
 import com.oznur.homework.dto.response.CountryDtoResponse;
 import com.oznur.homework.entity.Country;
 import com.oznur.homework.service.CountryService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -13,11 +12,10 @@ import java.util.List;
 
 @RestController
 @RequestMapping("api/v1.0/countries")
-@RequiredArgsConstructor
 public class CountryController {
 
-
-    private final CountryService countryService;
+    @Autowired
+    private CountryService countryService;
 
     @GetMapping
     public ResponseEntity<List<CountryDtoResponse>> getAllCountries(){

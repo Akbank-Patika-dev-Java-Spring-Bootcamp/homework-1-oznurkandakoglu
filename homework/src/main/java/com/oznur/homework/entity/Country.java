@@ -14,6 +14,8 @@ public class Country {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
+
+    @Column(name = "NAME")
     private String name;
     private String president;
 
