@@ -1,4 +1,4 @@
-# Homework 1
+# Akbank & Patika.dev Java Spring Bootcamp Homework 1
 
 ### About Project
 
