@@ -17,19 +17,26 @@
 
 - Save Country
 
-<img width="1440" alt="Ekran Resmi 2023-05-18 02 53 49" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/7d1a5064-114e-44e5-8364-970db725b920">
+<img width="1440" alt="Ekran Resmi 2023-05-18 02 53 49" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/a10ccdb6-f2ab-4793-ac66-590ad49fb4f4">
+
 
 - Update President
 
-<img width="1440" alt="Ekran Resmi 2023-05-18 02 54 57" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/454ca6be-9024-44b4-898c-a0d42ad610b4">
+<img width="1440" alt="Ekran Resmi 2023-05-18 02 54 57" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/16df5b9c-e308-4ea4-ac1d-b458a9063159">
+
+
 
 - Delete Country
 
-<img width="1440" alt="Ekran Resmi 2023-05-18 02 55 34" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/9372147e-8c39-41fd-af8b-12337f6ac4d4">
+<img width="1440" alt="Ekran Resmi 2023-05-18 02 55 34" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/dfaf2db5-043a-4825-baf3-8dc945028d9e">
+
+
 
 - Get All Countries
 
-<img width="1440" alt="Ekran Resmi 2023-05-18 02 55 44" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/53fa674c-3b51-4fb8-9a02-cfec3825f876">
+<img width="1440" alt="Ekran Resmi 2023-05-18 02 55 44" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/168a972e-545b-47e1-b582-645297a4ff5c">
+
+
 
 
 
