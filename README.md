@@ -19,6 +19,11 @@
 
 <img width="1440" alt="Ekran Resmi 2023-05-18 02 53 49" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/a10ccdb6-f2ab-4793-ac66-590ad49fb4f4">
 
+- Get Country
+
+<img width="1440" alt="Ekran Resmi 2023-05-18 03 10 39" src="https://github.com/Akbank-Patika-dev-Java-Spring-Bootcamp/homework-1-oznurkandakoglu/assets/73194842/1bf4d858-cc07-43eb-b3f0-b4b683420357">
+
+
 
 - Update President
 
